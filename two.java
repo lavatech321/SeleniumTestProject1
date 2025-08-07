@@ -4,3 +4,4 @@ How are you
   Who are you
 
   New weploe named bob joined our team
+  Bill also joined out team
